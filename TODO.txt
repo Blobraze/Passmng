@@ -1,0 +1,9 @@
+TODO:
+	1. Install 'printy'
+	2. Use 'printy' instead of 'rich' if works better
+	3. Implement password generation using random
+	4. Add database for passwords
+	5. Implement adding to database and reading from it
+	6. Add login and login screen
+	7. Add cryptography with login password as  key if possible or make the password key
+
